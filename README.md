@@ -313,11 +313,6 @@ pip install rich
 3. Verify `namecheap_host` and `namecheap_domain` are correct
 4. Wait a few minutes if rate limited
 
-### Cannot Import from ddns_updater
-**Cause**: Missing `ddns_updater.py` file
-
-**Solution**: Ensure `ddns_updater.py` is in the same directory as `ddns_interactive.py`
-
 ## Best Practices
 
 ### Security
