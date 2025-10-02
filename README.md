@@ -461,11 +461,6 @@ For issues, questions, or contributions:
 4. Verify configuration settings
 5. Check API credentials validity
 
-## Related Files
-
-- **ddns_updater.py**: Core CLI version with full functionality
-- **ddns_silent.py**: Silent version for automation/scheduling
-- **ddns_gui.py**: GUI version with CustomTkinter interface
 
 ## Credits
 
