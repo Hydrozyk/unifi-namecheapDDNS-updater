@@ -1,4 +1,4 @@
-#Dynamic DNS IP Updater using Namcheap HTTPS requests + UniFi API
+## Dynamic DNS IP Updater using Namcheap HTTPS requests + UniFi API
 
 Menu-driven interactive terminal interface to  dynamically update the host's IP with an HTTPS requestNameCheap Dynamic DNS pulled from Ubiquiti Uni devices using Unifi Cloud API
 
