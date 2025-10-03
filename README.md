@@ -464,15 +464,6 @@ Built with:
 - [Requests](https://requests.readthedocs.io/) - HTTP library
 - Python 3.8+
 
-## Notes
-
-- This interactive version is ideal for manual management and monitoring
-- For automated/scheduled tasks, use the silent version (`ddns_silent.py`)
-- For visual desktop application, use the GUI version (`ddns_gui.py`)
-- The interactive version requires a terminal that supports ANSI color codes
-- Best experienced in a terminal with good Unicode support
-
----
 
 **Last Updated**: 2025-10-01
 **Version**: 1.0
