@@ -38,8 +38,8 @@ pip install rich>=13.7.0 requests>=2.31.0 urllib3>=2.0.0
 
 1. **Clone or download the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Hydrozyk/unifi-namecheapDDNS-updater.git
+   cd unifi-namecheapDDNS
    ```
 
 2. **Install dependencies**
